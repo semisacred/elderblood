@@ -1,12 +1,13 @@
 # ELDERBLOOD
+
 **by semisacred**
 
-A collection of Elderblood gameplay and audio mods.
+A collection of Baldur's Gate 3 gameplay and audio mods.
 
 ---
 
-
-## Dragonborn
+**Dragonborn**
+---
 
 **Thrall’s Fortitude**
 - +5 Max HP
@@ -15,19 +16,19 @@ A collection of Elderblood gameplay and audio mods.
 
 **Breath Attack**
 - Bonus action
-- 2d10 damage  
+- 2d10 damage
 - Scales at levels **4, 8, 12, 16, 20**
 - Once per combat
 
 ---
 
-
-## Draconic Bloodline (Sorcerer)
+**Draconic Bloodline (Sorcerer)**
+---
 
 ### Level 1
 - **Darkvision**
 - **Draconic Ancestry – Alignment**
-  - If draconic bloodline matches Dragonborn ancestry, enemies have **disadvantage** on Dragonborn Breath Weapon saving throws
+  - If draconic bloodline matches Dragonborn ancestry, enemies have disadvantage on Dragonborn Breath Weapon saving throws
 - **Draconic Resilience**
   - +1 AC (no armor restriction)
   - +1 Max HP per Sorcerer level
@@ -37,7 +38,7 @@ A collection of Elderblood gameplay and audio mods.
   - Increase draconic element damage by CHA modifier
   - Reduce draconic element damage received by CHA modifier
 - **Elemental Affinity – Resistance**
-  - *Removed*
+  - Removed
 
 ### Level 11
 - **Elemental Affinity – Mastery**
@@ -55,8 +56,8 @@ A collection of Elderblood gameplay and audio mods.
 
 ---
 
-
-## Origins
+**Origins**
+---
 
 ### Dark Urge
 - **Background:** Haunted One
@@ -69,18 +70,18 @@ A collection of Elderblood gameplay and audio mods.
 
 ---
 
-
-## Elderblood Deep Voice 5
+**Elderblood Deep Voice 5**
+---
 
 **Voice Profile**
 - Pitch: **0.8**
 - Amplification: **+0.5 dB**
 
-### Known Issues / TODO
+**Known Issues / TODO**
 ```text
-• "Another day, another fight" uses vanilla voice bark
-• "You will die for me, won't you?"
-• Spellcasting voice for Invisibility still vanilla
+- "Another day, another fight" uses vanilla voice bark
+- "You will die for me, won't you?"
+- Spellcasting voice for Invisibility still vanilla
 - "You picked the wrong fight, friend."
 - "Blood follows me everywhere."
 - "I'll strike you down."
