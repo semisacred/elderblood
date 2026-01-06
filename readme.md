@@ -21,6 +21,16 @@ Lvl 14: Elemental Affinity: Wyrmsong - Heal 1d4 HP whenever you deal draconic el
 Lvl 18: Draconic Presence (Expansion)
 # ------------------------------------------
 
+# ORIGINS-----------------------------------
+Dark Urge
+    Haunted One Background
+        +2 Initiative
+Shadowheart
+    Circlet of Night (Circlet)
+        Passive: Blind Immunity
+        Spell: Darkness
+# ------------------------------------------
+
 # DEEP VOICE 5------------------------------
 Lower Pitch 0.8 + Amp 0.5db
 TODO:
