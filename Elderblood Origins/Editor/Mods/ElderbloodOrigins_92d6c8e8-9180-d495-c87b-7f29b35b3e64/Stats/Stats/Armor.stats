@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="239de60a-29b5-4010-bf7d-f6169d4ddd8a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e64d9461-7fea-4405-8aa9-8e7f025a299b" />
+        <field name="Name" type="NameTableFieldDefinition" value="UNI_ShadowheartCirclet" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="654ae709-b8e7-499e-8452-89d87a31dff7" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="437aede9-dea6-46fd-ade2-fc9cfef16c3d" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_SHA_SharsBlessing_Darkness)" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="MAG_Shadow_BlindImmunity_Ring_Passive;" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

@@ -1,0 +1,8 @@
+new entry "UNI_ShadowheartCirclet"
+type "Armor"
+using "ARM_Circlet"
+data "RootTemplate" "437aede9-dea6-46fd-ade2-fc9cfef16c3d"
+data "Rarity" "Rare"
+data "Boosts" "UnlockSpell(Target_SHA_SharsBlessing_Darkness)"
+data "PassivesOnEquip" "MAG_Shadow_BlindImmunity_Ring_Passive;"
+

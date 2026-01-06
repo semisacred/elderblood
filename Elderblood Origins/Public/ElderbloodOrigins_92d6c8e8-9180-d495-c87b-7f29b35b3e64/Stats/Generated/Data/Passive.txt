@@ -1,0 +1,6 @@
+new entry "Background_HauntedOne"
+type "PassiveData"
+data "DisplayName" "h78d6891ag37eeg802dgc4d1g8ead457dccb0;1"
+data "Description" "ha10269c3ga974g50efg0dc5g754211ba58cd;1"
+data "Boosts" "ProficiencyBonus(Skill,Medicine);ProficiencyBonus(Skill,Intimidation);Initiative(2);"
+

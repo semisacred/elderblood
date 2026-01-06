@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3e76b74c-a5ae-4268-944a-aa9c31e2185e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e9698ba0-6261-481b-a814-eda350d3e4d1" />
+        <field name="Name" type="NameTableFieldDefinition" value="Background_HauntedOne" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h78d6891ag37eeg802dgc4d1g8ead457dccb0" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha10269c3ga974g50efg0dc5g754211ba58cd" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Medicine);ProficiencyBonus(Skill,Intimidation);Initiative(2);" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
