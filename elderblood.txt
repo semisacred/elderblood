@@ -1,83 +1,21 @@
-cd#-------------------------------------------
+# ------------------------------------------
 # ELDERBLOOD by semisacred
-#-------------------------------------------
-VAS: Remove speak with animals and dead from VAS
-Feats Overhaul Plus: Reset ritual caster and mention of homebrew/pathfinder Spells
-Expansion: Remove Bladesinger
-Dark Urge Point and click lines.
-qol druid?
-Elderblood: 
-Gale wild magic. 
-Adjust Draconic ancestry subclass. +1 ac instead of mage armor.  Elemental Affinity: Resistance -> Elemental Affinity: Ignore Resistance test flight / wings possibly renove armor
-Add Sorcery points to durge (remove quickened buff). 
-ultrawide laoding screens with wood border. remove vignette
-wake the dead icon -> yellow draconic icon?
-investigate betterinventory ui and advanced character sheet to give BIUI 8 slots
-Dragonborn Unleashed add +4 hp to draconic ancestry
+# ------------------------------------------
 
-# LOAD ORDER--------------------------------
-Imp UI
-Community Library 
-Mod Configuration Menu
-...
-Better Tooltips
-BCPP
-Companions Panel and Camp Chest Everywhere
-Advanced Character Sheet
-Dynamic Sidebar
-Better Containers
-Better Hotbar
-Better Inventory UI
-Better Inventory UI Addon
-...
-5E Dodge
-Get Ready
-Hurry Up
-Common Action Patch
-...
-Vanilla Missing Icons
-Permanent Passives
-Barbarian Quality of Life
-Barbarian Quality of Life - Loviator's Love
-...
-5E Spells 
-5E Spells - Secrets Scrolls
-Vlad's Grimoire - VFX Library
-Green Flame Blade
-...
-Valdacil's Spell Adjustments (Vanilla)
-Valdacil's Spell Adjustments (5E Spells)
-Valdacil's Spell Adjustments (Patches/Addons) 
-Valdacil's Idol Auras
-...
-Wild Magic D100
-Wild Magic D100 Patches
-Increasing Likely Wild Magic Surge
-...
-Fade's Equipment Distribution
-Gifts of the Absolute - Branded Equipment
-Unarmed and Upgraded - Monk Equipment
-Faith and Fortitude - Cleric Equipment
-Grove and Growl - Druid Equipment
-Beast and Bow - Ranger Equipment
-Wands and Weave - Wizard Equipment
-Song and Steel - Bard Equipment
-Pact and Power - Warlock Equipment
-Veil and Venom - Rogue Equipment
-Rage and Resilience - Barbarian Equipment
-Might and Metal - Fighter Equipment 
-Chaos and Control - Sorcerer Equipment 
-Oath and Order - Paladin Equipment
-...
-FocusCore
-FocusLoadstones
-...
-Longstrider Plus
-Dragonborn Stronger Breath
-Sacred Tweaks
-Compatibility Framework 
-#-------------------------------------------
-
-
-
+# DEEP VOICE 5------------------------------
+Lower Pitch 0.8 + Amp 0.5db
+TODO:
+    hii, when he says "another day another fight" he uses his vanilla voice bark
+    also "you will die for me wont you"
+    spellcasting voice for Invisibility this time, haha.
+    Edit: Also found another- the Reduce version of Enlarge/Reduce spell's voiceline!
+    it was the modded version. Then I started to just click-to-attack a dummy in camp, using the Hide action in-between to reset the voice triggers, and I found multiple that are vanilla only         out-of-combat. Here are the ones I've found:
+    "You picked the wrong fight, friend."
+    "Blood follows me everywhere."
+    "I'll strike you down."
+    "Another day, another fight."
+    "Cutting to the chase."
+    "You will die for me, won't you?"
+    EDIT2: I also found that the voice line for Hunter's Mark is also still vanilla!
+# ------------------------------------------
 
