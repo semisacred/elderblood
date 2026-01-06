@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="4fcdf163-88be-40b5-bf02-680ac5d776d9">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1a0c453c-c96d-4d36-880d-4775cd7cf93b" />
+        <field name="Name" type="NameTableFieldDefinition" value="BreathWeapon_Acid" />
+        <field name="SurfaceType" type="EnumerationTableFieldDefinition" value="Sentinel" enumeration_type_name="Surface Type" version="1" />
+        <field name="SurfaceLifetime" type="IntegerTableFieldDefinition" value="0" />
+        <field name="SurfaceGrowStep" type="IntegerTableFieldDefinition" value="5" />
+        <field name="SurfaceGrowInterval" type="IntegerTableFieldDefinition" value="10" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value=" not SavingThrow(Ability.Dexterity, CalculateSpellDC(Ability.Constitution, context.Source))" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(LevelMapValue(BreathWeapon), Acid,Magical)" />
+        <field name="SpellFail" type="StringTableFieldDefinition" value="DealDamage(LevelMapValue(BreathWeapon)/2, Acid,Magical)" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9e4609a1g5a52g0022g322bg5e6076443a57" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h65dabd6dgf948gbc66g2406gc74ab03fa5ab" version="1" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(LevelMapValue(BreathWeapon),Acid)" />
+        <field name="TooltipAttackSave" type="StringTableFieldDefinition" value="Dexterity" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="Shape" type="StringTableFieldDefinition" value="Square" />
+        <field name="Range" type="IntegerTableFieldDefinition" value="5" />
+        <field name="Base" type="IntegerTableFieldDefinition" value="2" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1;" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="ce0aa392-7d13-45a2-8a59-e6786830265d,,;,,;bd10df60-20c2-4711-a1b0-cef708fa0f11,bd10df60-20c2-4711-a1b0-cef708fa0f11,bd10df60-20c2-4711-a1b0-cef708fa0f11;af7ebc22-2ad5-4a39-ad4f-4e93e45f88c1,,;4354d3c1-ffc2-4da2-9840-d8c5f0932cbf,,;,,;c6951776-8830-4d97-9286-35899fe08d0b,,;,,;,," />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerCombat" enumeration_type_name="CooldownType" version="1" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="dbb69154-0834-4ae7-b438-b831ba7cab45" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="813f3837-a027-49f6-8ab8-06917d2f80d3" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Acid" enumeration_type_name="Damage Type" version="1" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Damage_BreathWeapon_Acid" />
+        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="fa3eaf23-5a9a-47a0-bc24-eb03d85d4d7a" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="CanAreaDamageEvade" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Damage_BreathWeapon_Acid" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Spell_Loop_Damage_BreathWeapon_Acid" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_Dragonborn_BreathWeapon_Acid" />
+        <field name="TooltipOnSave" type="StringTableFieldDefinition" value="961753f4-c345-4bc4-b408-1d5b87a5ab0c" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="bfa22a59-fd65-4e35-ae0f-ac960c3b5fd2">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7d558ecd-0bc0-4eef-abaf-5b1987b1875e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hda0d8381g7fdbg5064g154dgc08064f65fcc" version="4" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha207a3a0g3a49g41bag3b46g7167114c85fb" version="6" />
+        <field name="ExactMatch" type="FixedStringTableFieldDefinition" value="IncreaseMaxHP(5)" />
+        <field name="ProgressionTableId" type="GuidTableFieldDefinition" value="e2472b4f-682a-4ac8-b11c-723f921fd7a1" />
+        <field name="PassivePrototype" type="FixedStringTableFieldDefinition" value="ThrallsFortitude" />
+        <field name="ProgressionId" type="GuidTableFieldDefinition" value="cabc4d46-f08e-4a48-8937-0bd1067ab43d" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

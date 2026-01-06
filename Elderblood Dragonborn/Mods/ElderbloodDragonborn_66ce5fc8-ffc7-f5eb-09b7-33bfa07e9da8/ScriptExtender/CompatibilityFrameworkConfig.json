@@ -1,0 +1,17 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "UUIDs": [
+        "cabc4d46-f08e-4a48-8937-0bd1067ab43d" // Dragonborn Race
+      ],
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["ThrallsFortitude"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="ha207a3a0g3a49g41bag3b46g7167114c85fb" version="6"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hda0d8381g7fdbg5064g154dgc08064f65fcc" version="4"/>
+                    <attribute id="ExactMatch" type="FixedString" value="IncreaseMaxHP(5)"/>
+                    <attribute id="PassivePrototype" type="FixedString" value="ThrallsFortitude"/>
+                    <attribute id="ProgressionId" type="guid" value="cabc4d46-f08e-4a48-8937-0bd1067ab43d"/>
+                    <attribute id="ProgressionTableId" type="guid" value="e2472b4f-682a-4ac8-b11c-723f921fd7a1"/>
+                    <attribute id="UUID" type="guid" value="7d558ecd-0bc0-4eef-abaf-5b1987b1875e"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="2d56f038-865d-492c-b434-c2b3e821cc13">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Level1" type="StringTableFieldDefinition" value="2d10"></field>
+        <field name="Level2" type="StringTableFieldDefinition" value="2d10"></field>
+        <field name="Level3" type="StringTableFieldDefinition" value="2d10"></field>
+        <field name="Level4" type="StringTableFieldDefinition" value="3d10"></field>
+        <field name="Level5" type="StringTableFieldDefinition" value="3d10"></field>
+        <field name="Level6" type="StringTableFieldDefinition" value="3d10"></field>
+        <field name="Level7" type="StringTableFieldDefinition" value="3d10"></field>
+        <field name="Level8" type="StringTableFieldDefinition" value="4d10"></field>
+        <field name="Level9" type="StringTableFieldDefinition" value="4d10"></field>
+        <field name="Level10" type="StringTableFieldDefinition" value="4d10"></field>
+        <field name="Level11" type="StringTableFieldDefinition" value="4d10"></field>
+        <field name="Level12" type="StringTableFieldDefinition" value="5d10"></field>
+        <field name="Level13" type="StringTableFieldDefinition" value="5d10"></field>
+        <field name="Level14" type="StringTableFieldDefinition" value="5d10"></field>
+        <field name="Level15" type="StringTableFieldDefinition" value="5d10"></field>
+        <field name="Level16" type="StringTableFieldDefinition" value="6d10"></field>
+        <field name="Level17" type="StringTableFieldDefinition" value="6d10"></field>
+        <field name="Level18" type="StringTableFieldDefinition" value="6d10"></field>
+        <field name="Level19" type="StringTableFieldDefinition" value="6d10"></field>
+        <field name="Level20" type="StringTableFieldDefinition" value="7d10"></field>
+        <field name="Name" type="NameTableFieldDefinition" value="BreathWeapon"></field>
+        <field name="UUID" type="IdTableFieldDefinition" value="b1341ab8-3254-4594-813d-2f3ce35f5843"></field>
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="BreathWeapon"></field>
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Level1" type="StringTableFieldDefinition" value="2d10"></field>
+        <field name="Level2" type="StringTableFieldDefinition" value="2d10"></field>
+        <field name="Level3" type="StringTableFieldDefinition" value="2d10"></field>
+        <field name="Level4" type="StringTableFieldDefinition" value="3d10"></field>
+        <field name="Level5" type="StringTableFieldDefinition" value="3d10"></field>
+        <field name="Level6" type="StringTableFieldDefinition" value="3d10"></field>
+        <field name="Level7" type="StringTableFieldDefinition" value="3d10"></field>
+        <field name="Level8" type="StringTableFieldDefinition" value="4d10"></field>
+        <field name="Level9" type="StringTableFieldDefinition" value="4d10"></field>
+        <field name="Level10" type="StringTableFieldDefinition" value="4d10"></field>
+        <field name="Level11" type="StringTableFieldDefinition" value="4d10"></field>
+        <field name="Level12" type="StringTableFieldDefinition" value="5d10"></field>
+        <field name="Level13" type="StringTableFieldDefinition" value="5d10"></field>
+        <field name="Level14" type="StringTableFieldDefinition" value="5d10"></field>
+        <field name="Level15" type="StringTableFieldDefinition" value="5d10"></field>
+        <field name="Level16" type="StringTableFieldDefinition" value="6d10"></field>
+        <field name="Level17" type="StringTableFieldDefinition" value="6d10"></field>
+        <field name="Level18" type="StringTableFieldDefinition" value="6d10"></field>
+        <field name="Level19" type="StringTableFieldDefinition" value="6d10"></field>
+        <field name="Level20" type="StringTableFieldDefinition" value="7d10"></field>
+        <field name="Name" type="NameTableFieldDefinition" value="XCL_Fizbans_BreathWeapon"></field>
+        <field name="UUID" type="IdTableFieldDefinition" value="773cf40c-3b02-409f-9158-0bd83094cb54"></field>
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="XCL_Fizbans_BreathWeapon"></field>
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Level1" type="StringTableFieldDefinition" value="2d10"></field>
+        <field name="Level2" type="StringTableFieldDefinition" value="2d10"></field>
+        <field name="Level3" type="StringTableFieldDefinition" value="2d10"></field>
+        <field name="Level4" type="StringTableFieldDefinition" value="3d10"></field>
+        <field name="Level5" type="StringTableFieldDefinition" value="3d10"></field>
+        <field name="Level6" type="StringTableFieldDefinition" value="3d10"></field>
+        <field name="Level7" type="StringTableFieldDefinition" value="3d10"></field>
+        <field name="Level8" type="StringTableFieldDefinition" value="4d10"></field>
+        <field name="Level9" type="StringTableFieldDefinition" value="4d10"></field>
+        <field name="Level10" type="StringTableFieldDefinition" value="4d10"></field>
+        <field name="Level11" type="StringTableFieldDefinition" value="4d10"></field>
+        <field name="Level12" type="StringTableFieldDefinition" value="5d10"></field>
+        <field name="Level13" type="StringTableFieldDefinition" value="5d10"></field>
+        <field name="Level14" type="StringTableFieldDefinition" value="5d10"></field>
+        <field name="Level15" type="StringTableFieldDefinition" value="5d10"></field>
+        <field name="Level16" type="StringTableFieldDefinition" value="6d10"></field>
+        <field name="Level17" type="StringTableFieldDefinition" value="6d10"></field>
+        <field name="Level18" type="StringTableFieldDefinition" value="6d10"></field>
+        <field name="Level19" type="StringTableFieldDefinition" value="6d10"></field>
+        <field name="Level20" type="StringTableFieldDefinition" value="7d10"></field>
+        <field name="Name" type="NameTableFieldDefinition" value="DragonbornBreathWeapon"></field>
+        <field name="UUID" type="IdTableFieldDefinition" value="64a3e7bb-645a-4c33-ba36-6d197d5fc134"></field>
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DragonbornBreathWeapon"></field>
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Level1" type="StringTableFieldDefinition" value="2d10"></field>
+        <field name="Level2" type="StringTableFieldDefinition" value="2d10"></field>
+        <field name="Level3" type="StringTableFieldDefinition" value="2d10"></field>
+        <field name="Level4" type="StringTableFieldDefinition" value="3d10"></field>
+        <field name="Level5" type="StringTableFieldDefinition" value="3d10"></field>
+        <field name="Level6" type="StringTableFieldDefinition" value="3d10"></field>
+        <field name="Level7" type="StringTableFieldDefinition" value="3d10"></field>
+        <field name="Level8" type="StringTableFieldDefinition" value="4d10"></field>
+        <field name="Level9" type="StringTableFieldDefinition" value="4d10"></field>
+        <field name="Level10" type="StringTableFieldDefinition" value="4d10"></field>
+        <field name="Level11" type="StringTableFieldDefinition" value="4d10"></field>
+        <field name="Level12" type="StringTableFieldDefinition" value="5d10"></field>
+        <field name="Level13" type="StringTableFieldDefinition" value="5d10"></field>
+        <field name="Level14" type="StringTableFieldDefinition" value="5d10"></field>
+        <field name="Level15" type="StringTableFieldDefinition" value="5d10"></field>
+        <field name="Level16" type="StringTableFieldDefinition" value="6d10"></field>
+        <field name="Level17" type="StringTableFieldDefinition" value="6d10"></field>
+        <field name="Level18" type="StringTableFieldDefinition" value="6d10"></field>
+        <field name="Level19" type="StringTableFieldDefinition" value="6d10"></field>
+        <field name="Level20" type="StringTableFieldDefinition" value="7d10"></field>
+        <field name="Name" type="NameTableFieldDefinition" value="XCL_Dragonbreath"></field>
+        <field name="UUID" type="IdTableFieldDefinition" value="18324f31-7053-4098-9832-57b7e4a239e0"></field>
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="XCL_Dragonbreath"></field>
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

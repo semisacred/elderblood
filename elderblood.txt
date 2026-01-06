@@ -2,6 +2,12 @@
 # ELDERBLOOD by semisacred
 # ------------------------------------------
 
+# DRAGONBORN--------------------------------
+Thrall's Fortitude: +5 max HP
+Savage Attacker
+Breath Attack: bonus action, 2d10 (increases levels 4, 8, 12, 16, 20), per combat
+# ------------------------------------------
+
 # DRACONIC BLOODLINE------------------------
 Lvl 1: Darkvision
 Lvl 1: Draconic Ancestry: Alignment: If draconic bloodline matches dragonborn ancestry then enemies have disadvantage on dragonborn breath weapon saving throws

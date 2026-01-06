@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="hc01fb349g9cf8gbc0cg55c1gd7c1b3ba9aed" version="1">Thrall's Fortitude</content>
+  <content contentuid="he0023042gb627gb960g3f5cga2609d5e8547" version="3">Your &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; maximum increases by 5.</content>
+  <content contentuid="hda0d8381g7fdbg5064g154dgc08064f65fcc" version="4">Thrall's Fortitude</content>
+  <content contentuid="ha207a3a0g3a49g41bag3b46g7167114c85fb" version="6">Your &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; maximum increases by 5.</content>
+  <content contentuid="h9e4609a1g5a52g0022g322bg5e6076443a57" version="1">Acid Breath</content>
+  <content contentuid="h65dabd6dgf948gbc66g2406gc74ab03fa5ab" version="1">Spew forth a cone of acid.</content>
+  <content contentuid="h24342744g7a30g6da0g7411g6d8b2b33262d" version="1">Thrall's Fortitude</content>
+  <content contentuid="hc8645890g745eg1201g111eg7f829ea32dcf" version="1">Your &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; maximum increases by 5.</content>
+</contentList>

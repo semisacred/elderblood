@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="2" revision="0" build="100"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSWString" value="2d10"/>
+                    <attribute id="Level2" type="LSWString" value="2d10"/>
+                    <attribute id="Level3" type="LSWString" value="2d10"/>
+                    <attribute id="Level4" type="LSWString" value="3d10"/>
+                    <attribute id="Level5" type="LSWString" value="3d10"/>
+                    <attribute id="Level6" type="LSWString" value="3d10"/>
+                    <attribute id="Level7" type="LSWString" value="3d10"/>
+                    <attribute id="Level8" type="LSWString" value="4d10"/>
+                    <attribute id="Level9" type="LSWString" value="4d10"/>
+                    <attribute id="Level10" type="LSWString" value="4d10"/>
+                    <attribute id="Level11" type="LSWString" value="4d10"/>
+                    <attribute id="Level12" type="LSWString" value="5d10"/>
+                    <attribute id="Level13" type="LSWString" value="5d10"/>
+                    <attribute id="Level14" type="LSWString" value="5d10"/>
+                    <attribute id="Level15" type="LSWString" value="5d10"/>
+                    <attribute id="Level16" type="LSWString" value="6d10"/>
+                    <attribute id="Level17" type="LSWString" value="6d10"/>
+                    <attribute id="Level18" type="LSWString" value="6d10"/>
+                    <attribute id="Level19" type="LSWString" value="6d10"/>
+                    <attribute id="Level20" type="LSWString" value="7d10"/>
+                    <attribute id="Name" type="FixedString" value="BreathWeapon"/>
+                    <attribute id="UUID" type="FixedString" value="b1341ab8-3254-4594-813d-2f3ce35f5843"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSWString" value="2d10"/>
+                    <attribute id="Level2" type="LSWString" value="2d10"/>
+                    <attribute id="Level3" type="LSWString" value="2d10"/>
+                    <attribute id="Level4" type="LSWString" value="3d10"/>
+                    <attribute id="Level5" type="LSWString" value="3d10"/>
+                    <attribute id="Level6" type="LSWString" value="3d10"/>
+                    <attribute id="Level7" type="LSWString" value="3d10"/>
+                    <attribute id="Level8" type="LSWString" value="4d10"/>
+                    <attribute id="Level9" type="LSWString" value="4d10"/>
+                    <attribute id="Level10" type="LSWString" value="4d10"/>
+                    <attribute id="Level11" type="LSWString" value="4d10"/>
+                    <attribute id="Level12" type="LSWString" value="5d10"/>
+                    <attribute id="Level13" type="LSWString" value="5d10"/>
+                    <attribute id="Level14" type="LSWString" value="5d10"/>
+                    <attribute id="Level15" type="LSWString" value="5d10"/>
+                    <attribute id="Level16" type="LSWString" value="6d10"/>
+                    <attribute id="Level17" type="LSWString" value="6d10"/>
+                    <attribute id="Level18" type="LSWString" value="6d10"/>
+                    <attribute id="Level19" type="LSWString" value="6d10"/>
+                    <attribute id="Level20" type="LSWString" value="7d10"/>
+                    <attribute id="Name" type="FixedString" value="XCL_Fizbans_BreathWeapon"/>
+                    <attribute id="UUID" type="FixedString" value="773cf40c-3b02-409f-9158-0bd83094cb54"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSWString" value="2d10"/>
+                    <attribute id="Level2" type="LSWString" value="2d10"/>
+                    <attribute id="Level3" type="LSWString" value="2d10"/>
+                    <attribute id="Level4" type="LSWString" value="3d10"/>
+                    <attribute id="Level5" type="LSWString" value="3d10"/>
+                    <attribute id="Level6" type="LSWString" value="3d10"/>
+                    <attribute id="Level7" type="LSWString" value="3d10"/>
+                    <attribute id="Level8" type="LSWString" value="4d10"/>
+                    <attribute id="Level9" type="LSWString" value="4d10"/>
+                    <attribute id="Level10" type="LSWString" value="4d10"/>
+                    <attribute id="Level11" type="LSWString" value="4d10"/>
+                    <attribute id="Level12" type="LSWString" value="5d10"/>
+                    <attribute id="Level13" type="LSWString" value="5d10"/>
+                    <attribute id="Level14" type="LSWString" value="5d10"/>
+                    <attribute id="Level15" type="LSWString" value="5d10"/>
+                    <attribute id="Level16" type="LSWString" value="6d10"/>
+                    <attribute id="Level17" type="LSWString" value="6d10"/>
+                    <attribute id="Level18" type="LSWString" value="6d10"/>
+                    <attribute id="Level19" type="LSWString" value="6d10"/>
+                    <attribute id="Level20" type="LSWString" value="7d10"/>
+                    <attribute id="Name" type="FixedString" value="DragonbornBreathWeapon"/>
+                    <attribute id="UUID" type="FixedString" value="64a3e7bb-645a-4c33-ba36-6d197d5fc134"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSWString" value="2d10"/>
+                    <attribute id="Level2" type="LSWString" value="2d10"/>
+                    <attribute id="Level3" type="LSWString" value="2d10"/>
+                    <attribute id="Level4" type="LSWString" value="3d10"/>
+                    <attribute id="Level5" type="LSWString" value="3d10"/>
+                    <attribute id="Level6" type="LSWString" value="3d10"/>
+                    <attribute id="Level7" type="LSWString" value="3d10"/>
+                    <attribute id="Level8" type="LSWString" value="4d10"/>
+                    <attribute id="Level9" type="LSWString" value="4d10"/>
+                    <attribute id="Level10" type="LSWString" value="4d10"/>
+                    <attribute id="Level11" type="LSWString" value="4d10"/>
+                    <attribute id="Level12" type="LSWString" value="5d10"/>
+                    <attribute id="Level13" type="LSWString" value="5d10"/>
+                    <attribute id="Level14" type="LSWString" value="5d10"/>
+                    <attribute id="Level15" type="LSWString" value="5d10"/>
+                    <attribute id="Level16" type="LSWString" value="6d10"/>
+                    <attribute id="Level17" type="LSWString" value="6d10"/>
+                    <attribute id="Level18" type="LSWString" value="6d10"/>
+                    <attribute id="Level19" type="LSWString" value="6d10"/>
+                    <attribute id="Level20" type="LSWString" value="7d10"/>
+                    <attribute id="Name" type="FixedString" value="XCL_Dragonbreath"/>
+                    <attribute id="UUID" type="FixedString" value="18324f31-7053-4098-9832-57b7e4a239e0"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

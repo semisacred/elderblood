@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3e76b74c-a5ae-4268-944a-aa9c31e2185e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9e1b0f5c-b62c-48ac-8c42-a43f2a07d509" />
+        <field name="Name" type="NameTableFieldDefinition" value="ThrallsFortitude" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h24342744g7a30g6da0g7411g6d8b2b33262d" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc8645890g745eg1201g111eg7f829ea32dcf" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ThrallsFortitude" />
+        <field name="BoostContext" type="EnumerationListTableFieldDefinition" value="OnEquip;OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IncreaseMaxHP(5);" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

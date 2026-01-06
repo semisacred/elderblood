@@ -1,0 +1,8 @@
+new entry "ThrallsFortitude"
+type "PassiveData"
+data "DisplayName" "h24342744g7a30g6da0g7411g6d8b2b33262d;1"
+data "Description" "hc8645890g745eg1201g111eg7f829ea32dcf;1"
+data "Icon" "PassiveFeature_ThrallsFortitude"
+data "BoostContext" "OnEquip;OnCreate"
+data "Boosts" "IncreaseMaxHP(5);"
+

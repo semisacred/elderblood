@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="66ce5fc8-ffc7-f5eb-09b7-33bfa07e9da8"/>
+            <attribute id="Name" type="LSString" value="ElderbloodDragonborn"/>
+            <attribute id="UUID" type="LSString" value="683242ee-901b-38f8-a1e8-759682a925d8"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
