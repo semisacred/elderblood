@@ -89,3 +89,5 @@ A collection of Baldur's Gate 3 gameplay and audio mods.
 - "Cutting to the chase."
 - "You will die for me, won't you?"
 - Hunter’s Mark voice line is still vanilla
+
+---
