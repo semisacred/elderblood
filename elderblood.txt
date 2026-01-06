@@ -2,6 +2,19 @@
 # ELDERBLOOD by semisacred
 # ------------------------------------------
 
+# DRACONIC BLOODLINE------------------------
+Lvl 1: Darkvision
+Lvl 1: Draconic Ancestry: Alignment: If draconic bloodline matches dragonborn ancestry then enemies have disadvantage on dragonborn breath weapon saving throws
+Lvl 1: Draconic Resilience: +1 AC, removed no armor condition
+Lvl 1: Draconic Resilience: Hit Points - +1 max HP for each Sorcerer level
+Lvl 6: Elemental Affinity: Attunement - Increase draconic element damage done by CHA mod, reduce draconic element damage received by CHA mod
+Lvl 6: Elemental Affinity: Resistance - Removed
+Lvl 11: Elemental Affinity: Mastery - Ignore draconic element Resistance, gain Resistance to draconic element, gain Advantage on attacks against element-afflicted enemies
+Lvl 11: Fly
+Lvl 14: Elemental Affinity: Wyrmsong - Heal 1d4 HP whenever you deal draconic element damage
+Lvl 18: Draconic Presence (Expansion)
+# ------------------------------------------
+
 # DEEP VOICE 5------------------------------
 Lower Pitch 0.8 + Amp 0.5db
 TODO:

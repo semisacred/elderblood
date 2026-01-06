@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3e76b74c-a5ae-4268-944a-aa9c31e2185e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3e687354-b55c-40e4-bc8d-9e9975abaafb" />
+        <field name="Name" type="NameTableFieldDefinition" value="DraconicResilience" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9224d6fcg52dbga030gdec8ga9f2502bf3c6" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2f252a83gf4dag22ceg43f6g83ea20fb750c" version="2" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="AC(1);" />
+        <field name="BoostContext" type="EnumerationListTableFieldDefinition" value="OnEquip;OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DraconicResilience" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="44b9a747-0f60-4255-8a50-8c41166216e3" />
+        <field name="Name" type="NameTableFieldDefinition" value="DraconicAncestry_Black" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h782494efg49cag02c6g58b8gc32c5e4cba3c" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3bcae4c0g9ce1g06degb896g869d0f376c30" version="9" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_Grease,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Charisma);" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DraconicAncestry_Black" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF((HasPassive('DraconicAncestry_Black',context.Source) or HasPassive('DraconicAncestry_Copper',context.Source)) and HasPassive('Dragonborn_Resistance_Acid',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Silver',context.Source) or HasPassive('DraconicAncestry_White',context.Source)) and HasPassive('Dragonborn_Resistance_Cold',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Red',context.Source) or HasPassive('DraconicAncestry_Gold',context.Source) or HasPassive('DraconicAncestry_Brass',context.Source)) and HasPassive('Dragonborn_Resistance_Fire',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Blue',context.Source) or HasPassive('DraconicAncestry_Bronze',context.Source)) and HasPassive('Dragonborn_Resistance_Lightning',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Green',context.Source) and HasPassive('Dragonborn_Resistance_Poison',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1)&#xD;&#xA;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="db579c49-04be-49d1-a3d9-54f59223ca98" />
+        <field name="Name" type="NameTableFieldDefinition" value="DraconicAncestry_Blue" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h11240b18g00a9gf95bg83ccg2d7d2627c893" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb9f7d15dgcfbbgea14gf1b8g203d691232c4" version="9" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_WitchBolt,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Charisma);" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DraconicAncestry_Blue" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF((HasPassive('DraconicAncestry_Black',context.Source) or HasPassive('DraconicAncestry_Copper',context.Source)) and HasPassive('Dragonborn_Resistance_Acid',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Silver',context.Source) or HasPassive('DraconicAncestry_White',context.Source)) and HasPassive('Dragonborn_Resistance_Cold',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Red',context.Source) or HasPassive('DraconicAncestry_Gold',context.Source) or HasPassive('DraconicAncestry_Brass',context.Source)) and HasPassive('Dragonborn_Resistance_Fire',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Blue',context.Source) or HasPassive('DraconicAncestry_Bronze',context.Source)) and HasPassive('Dragonborn_Resistance_Lightning',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Green',context.Source) and HasPassive('Dragonborn_Resistance_Poison',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1)&#xD;&#xA;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8a06b9a3-eaa7-4200-86a2-133982f7a013" />
+        <field name="Name" type="NameTableFieldDefinition" value="DraconicAncestry_Brass" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1717a153g5bbdga6b9ga695g3af6ff66eff9" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h99055209g1ffegda65g631age6d78ad2e4c3" version="9" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_Sleep,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Charisma);" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DraconicAncestry_Brass" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF((HasPassive('DraconicAncestry_Black',context.Source) or HasPassive('DraconicAncestry_Copper',context.Source)) and HasPassive('Dragonborn_Resistance_Acid',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Silver',context.Source) or HasPassive('DraconicAncestry_White',context.Source)) and HasPassive('Dragonborn_Resistance_Cold',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Red',context.Source) or HasPassive('DraconicAncestry_Gold',context.Source) or HasPassive('DraconicAncestry_Brass',context.Source)) and HasPassive('Dragonborn_Resistance_Fire',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Blue',context.Source) or HasPassive('DraconicAncestry_Bronze',context.Source)) and HasPassive('Dragonborn_Resistance_Lightning',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Green',context.Source) and HasPassive('Dragonborn_Resistance_Poison',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1)&#xD;&#xA;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f3e029e0-b943-4a59-9dc6-aecf2f537dd2" />
+        <field name="Name" type="NameTableFieldDefinition" value="DraconicAncestry_Bronze" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h20321fecg6e2bg1875g76fbg5cf2f7b99f71" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h53b3475bga98cgee6cg9455ge55254283fa0" version="9" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_FogCloud,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Charisma);" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DraconicAncestry_Bronze" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF((HasPassive('DraconicAncestry_Black',context.Source) or HasPassive('DraconicAncestry_Copper',context.Source)) and HasPassive('Dragonborn_Resistance_Acid',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Silver',context.Source) or HasPassive('DraconicAncestry_White',context.Source)) and HasPassive('Dragonborn_Resistance_Cold',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Red',context.Source) or HasPassive('DraconicAncestry_Gold',context.Source) or HasPassive('DraconicAncestry_Brass',context.Source)) and HasPassive('Dragonborn_Resistance_Fire',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Blue',context.Source) or HasPassive('DraconicAncestry_Bronze',context.Source)) and HasPassive('Dragonborn_Resistance_Lightning',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Green',context.Source) and HasPassive('Dragonborn_Resistance_Poison',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1)&#xD;&#xA;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9d085597-a698-4adc-992b-c354ffdf2465" />
+        <field name="Name" type="NameTableFieldDefinition" value="DraconicAncestry_Copper" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb1123e51gf426g5edag56bbg99b642bac2af" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd5419db2gd497g4d40gec8fg486fc2080b15" version="9" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_HideousLaughter,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Charisma);" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DraconicAncestry_Copper" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF((HasPassive('DraconicAncestry_Black',context.Source) or HasPassive('DraconicAncestry_Copper',context.Source)) and HasPassive('Dragonborn_Resistance_Acid',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Silver',context.Source) or HasPassive('DraconicAncestry_White',context.Source)) and HasPassive('Dragonborn_Resistance_Cold',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Red',context.Source) or HasPassive('DraconicAncestry_Gold',context.Source) or HasPassive('DraconicAncestry_Brass',context.Source)) and HasPassive('Dragonborn_Resistance_Fire',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Blue',context.Source) or HasPassive('DraconicAncestry_Bronze',context.Source)) and HasPassive('Dragonborn_Resistance_Lightning',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Green',context.Source) and HasPassive('Dragonborn_Resistance_Poison',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1)&#xD;&#xA;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0d5c4664-1c4d-45f8-8bb3-4a39c2d33bab" />
+        <field name="Name" type="NameTableFieldDefinition" value="DraconicAncestry_Gold" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc4e84f7eg8b02g886bgeef1gedffbf79a718" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbcaf18bdg25d8g403agbc8fg3b9f837c48f6" version="9" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_DisguiseSelf,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Charisma);" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DraconicAncestry_Gold" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF((HasPassive('DraconicAncestry_Black',context.Source) or HasPassive('DraconicAncestry_Copper',context.Source)) and HasPassive('Dragonborn_Resistance_Acid',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Silver',context.Source) or HasPassive('DraconicAncestry_White',context.Source)) and HasPassive('Dragonborn_Resistance_Cold',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Red',context.Source) or HasPassive('DraconicAncestry_Gold',context.Source) or HasPassive('DraconicAncestry_Brass',context.Source)) and HasPassive('Dragonborn_Resistance_Fire',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Blue',context.Source) or HasPassive('DraconicAncestry_Bronze',context.Source)) and HasPassive('Dragonborn_Resistance_Lightning',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Green',context.Source) and HasPassive('Dragonborn_Resistance_Poison',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1)&#xD;&#xA;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cb98631d-6bec-4943-82f1-93f72c275a0b" />
+        <field name="Name" type="NameTableFieldDefinition" value="DraconicAncestry_Green" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7b9c65e2g1c89ga40ag1a0bg6fc9aa643b95" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h6dfcd0adgdbe0gb959g52c8g218e3751ed7c" version="9" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_RayOfSickness,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Charisma);" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DraconicAncestry_Green" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF((HasPassive('DraconicAncestry_Black',context.Source) or HasPassive('DraconicAncestry_Copper',context.Source)) and HasPassive('Dragonborn_Resistance_Acid',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Silver',context.Source) or HasPassive('DraconicAncestry_White',context.Source)) and HasPassive('Dragonborn_Resistance_Cold',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Red',context.Source) or HasPassive('DraconicAncestry_Gold',context.Source) or HasPassive('DraconicAncestry_Brass',context.Source)) and HasPassive('Dragonborn_Resistance_Fire',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Blue',context.Source) or HasPassive('DraconicAncestry_Bronze',context.Source)) and HasPassive('Dragonborn_Resistance_Lightning',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Green',context.Source) and HasPassive('Dragonborn_Resistance_Poison',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1)&#xD;&#xA;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="677d5f85-7977-4a1f-9556-ada37f1627ce" />
+        <field name="Name" type="NameTableFieldDefinition" value="DraconicAncestry_Red" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6da02e04g7503gd618geacag278fceff582a" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h90e461c6g4948g5e75ga688gc8df129ed24a" version="9" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Zone_BurningHands,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Charisma);" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DraconicAncestry_Red" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF((HasPassive('DraconicAncestry_Black',context.Source) or HasPassive('DraconicAncestry_Copper',context.Source)) and HasPassive('Dragonborn_Resistance_Acid',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Silver',context.Source) or HasPassive('DraconicAncestry_White',context.Source)) and HasPassive('Dragonborn_Resistance_Cold',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Red',context.Source) or HasPassive('DraconicAncestry_Gold',context.Source) or HasPassive('DraconicAncestry_Brass',context.Source)) and HasPassive('Dragonborn_Resistance_Fire',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Blue',context.Source) or HasPassive('DraconicAncestry_Bronze',context.Source)) and HasPassive('Dragonborn_Resistance_Lightning',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Green',context.Source) and HasPassive('Dragonborn_Resistance_Poison',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1)&#xD;&#xA;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f05fc713-ba48-48ce-a9b8-921d670f3279" />
+        <field name="Name" type="NameTableFieldDefinition" value="DraconicAncestry_Silver" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf1945665g39d7g673fg2c65gf21b7350d9f2" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc24eb189gc387g55cege181g95a61462a244" version="9" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_FeatherFall,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Charisma);" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DraconicAncestry_Silver" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF((HasPassive('DraconicAncestry_Black',context.Source) or HasPassive('DraconicAncestry_Copper',context.Source)) and HasPassive('Dragonborn_Resistance_Acid',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Silver',context.Source) or HasPassive('DraconicAncestry_White',context.Source)) and HasPassive('Dragonborn_Resistance_Cold',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Red',context.Source) or HasPassive('DraconicAncestry_Gold',context.Source) or HasPassive('DraconicAncestry_Brass',context.Source)) and HasPassive('Dragonborn_Resistance_Fire',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Blue',context.Source) or HasPassive('DraconicAncestry_Bronze',context.Source)) and HasPassive('Dragonborn_Resistance_Lightning',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Green',context.Source) and HasPassive('Dragonborn_Resistance_Poison',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1)&#xD;&#xA;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="238aa2db-a6e7-4728-b78b-0898af203d3f" />
+        <field name="Name" type="NameTableFieldDefinition" value="DraconicAncestry_White" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he2d7314bgbbc8g5506g4e18g7053174c2056" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9ee200eag0315gd5dfg15dbg0f0fb11509c4" version="9" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_ArmorOfAgathys,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Charisma);" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DraconicAncestry_White" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF((HasPassive('DraconicAncestry_Black',context.Source) or HasPassive('DraconicAncestry_Copper',context.Source)) and HasPassive('Dragonborn_Resistance_Acid',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Silver',context.Source) or HasPassive('DraconicAncestry_White',context.Source)) and HasPassive('Dragonborn_Resistance_Cold',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Red',context.Source) or HasPassive('DraconicAncestry_Gold',context.Source) or HasPassive('DraconicAncestry_Brass',context.Source)) and HasPassive('Dragonborn_Resistance_Fire',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF((HasPassive('DraconicAncestry_Blue',context.Source) or HasPassive('DraconicAncestry_Bronze',context.Source)) and HasPassive('Dragonborn_Resistance_Lightning',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Green',context.Source) and HasPassive('Dragonborn_Resistance_Poison',context.Source)):ApplyStatus(DRACONICANCESTRY_MATCH_TECHNICAL,100,-1)&#xD;&#xA;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bba52e0c-e26d-4188-b3aa-1976123a064d" />
+        <field name="Name" type="NameTableFieldDefinition" value="ElementalAffinity_Damage" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6bf95a95gbd2ag8b71gd24cgd7b49bca5c81" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hce30437fg6b22g8471gfe84gedf4d4c4bf2c" version="5" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF(HasPassive('DraconicAncestry_Black',context.Source) or HasPassive('DraconicAncestry_Copper',context.Source)):ApplyStatus(ELEMENTALAFFINITY_ACID_EXTRA_DAMAGE_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Silver',context.Source) or HasPassive('DraconicAncestry_White',context.Source)):ApplyStatus(ELEMENTALAFFINITY_COLD_EXTRA_DAMAGE_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Red',context.Source)  or HasPassive('DraconicAncestry_Gold',context.Source) or HasPassive('DraconicAncestry_Brass',context.Source)):ApplyStatus(ELEMENTALAFFINITY_FIRE_EXTRA_DAMAGE_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Blue',context.Source) or HasPassive('DraconicAncestry_Bronze',context.Source)):ApplyStatus(ELEMENTALAFFINITY_LIGHTNING_EXTRA_DAMAGE_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Green',context.Source)):ApplyStatus(ELEMENTALAFFINITY_POISON_EXTRA_DAMAGE_TECHNICAL,100,-1)" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ElementalAffinity_ExtraDamage" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="879fa9b6-c986-469e-b467-99fe9ec22a23" />
+        <field name="Name" type="NameTableFieldDefinition" value="ElementalAffinity_Mastery" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hde6c3134g85e5g3281g7cdag3bcd6a2deefd" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hadd3711dgbe44g0b2cgcf57gd15feaf69a2b" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ElementalAffinity_ExtraDamage" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted;ExecuteOnce" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF(HasPassive('DraconicAncestry_Black',context.Source) or HasPassive('DraconicAncestry_Copper',context.Source)):ApplyStatus(ELEMENTALAFFINITY_ACID_MASTERY_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Silver',context.Source) or HasPassive('DraconicAncestry_White',context.Source)):ApplyStatus(ELEMENTALAFFINITY_COLD_MASTERY_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Red',context.Source) or HasPassive('DraconicAncestry_Gold',context.Source) or HasPassive('DraconicAncestry_Brass',context.Source)):ApplyStatus(ELEMENTALAFFINITY_FIRE_MASTERY_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Blue',context.Source) or HasPassive('DraconicAncestry_Bronze',context.Source)):ApplyStatus(ELEMENTALAFFINITY_LIGHTNING_MASTERY_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Green',context.Source)):ApplyStatus(ELEMENTALAFFINITY_POISON_MASTERY_TECHNICAL,100,-1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="eba361f2-f168-48d6-a506-b3bd0472a42c" />
+        <field name="Name" type="NameTableFieldDefinition" value="ElementalAffinity_Wyrmsong" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h087804dcgdc47g5b19gfaeag6cb2427b404d" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf1853db1g8b32g35c6g48f8g298f35d4a345" version="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ElementalAffinity_ExtraDamage" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted;ExecuteOnce" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF(HasPassive('DraconicAncestry_Black',context.Source) or HasPassive('DraconicAncestry_Copper',context.Source)):ApplyStatus(ELEMENTALAFFINITY_ACID_WYRMSONG_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Silver',context.Source) or HasPassive('DraconicAncestry_White',context.Source)):ApplyStatus(ELEMENTALAFFINITY_COLD_WYRMSONG_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Red',context.Source)  or HasPassive('DraconicAncestry_Gold',context.Source) or HasPassive('DraconicAncestry_Brass',context.Source)):ApplyStatus(ELEMENTALAFFINITY_FIRE_WYRMSONG_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Blue',context.Source) or HasPassive('DraconicAncestry_Bronze',context.Source)):ApplyStatus(ELEMENTALAFFINITY_LIGHTNING_WYRMSONG_TECHNICAL,100,-1);IF(HasPassive('DraconicAncestry_Green',context.Source)):ApplyStatus(ELEMENTALAFFINITY_POISON_WYRMSONG_TECHNICAL,100,-1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b1426c03-1a3d-4ad3-b48d-43663a4d664b" />
+        <field name="Name" type="NameTableFieldDefinition" value="ElementalAffinity_Wyrmsong_Acid" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnDamage" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="Character() and (HasDamageDoneForType(DamageType.Acid));" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF(HasDamageDoneForType(DamageType.Acid)):RegainHitPoints(SELF,1d4);" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha20223e9g2b72g54b6g508cg28c52835af9f" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h1fc0d0fdgdd03gc763ge00ag7230351cda60" version="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ElementalAffinity_ExtraDamage" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2ab25279-83d1-4f1b-b5ac-5686ad8549c5" />
+        <field name="Name" type="NameTableFieldDefinition" value="ElementalAffinity_Wyrmsong_Cold" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b1426c03-1a3d-4ad3-b48d-43663a4d664b" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="Character() and (HasDamageDoneForType(DamageType.Cold));" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF(HasDamageDoneForType(DamageType.Cold)):RegainHitPoints(SELF,1d4);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="abb9dc06-a8e2-4cd8-a8ca-90912c422795" />
+        <field name="Name" type="NameTableFieldDefinition" value="ElementalAffinity_Wyrmsong_Fire" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b1426c03-1a3d-4ad3-b48d-43663a4d664b" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="Character() and (HasDamageDoneForType(DamageType.Fire));" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF(HasDamageDoneForType(DamageType.Fire)):RegainHitPoints(SELF,1d4);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3a2408f5-5cc4-433f-be14-8a85da58ace8" />
+        <field name="Name" type="NameTableFieldDefinition" value="ElementalAffinity_Wyrmsong_Lightning" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b1426c03-1a3d-4ad3-b48d-43663a4d664b" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="Character() and (HasDamageDoneForType(DamageType.Lightning));" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF(HasDamageDoneForType(DamageType.Lightning)):RegainHitPoints(SELF,1d4);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6be907d7-cf88-43b3-858a-65c233e308f9" />
+        <field name="Name" type="NameTableFieldDefinition" value="ElementalAffinity_Wyrmsong_Poison" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b1426c03-1a3d-4ad3-b48d-43663a4d664b" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="Character() and (HasDamageDoneForType(DamageType.Poison));" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF(HasDamageDoneForType(DamageType.Poison)):RegainHitPoints(SELF,1d4);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fffc3d58-d2e4-42c6-b49b-cf79f58643fc" />
+        <field name="Name" type="NameTableFieldDefinition" value="ElementalAffinity_Mastery_Acid" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0070217bg1c54gd5e1g4d95ga52ff6844289" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd8e3ac8dgbebag9a00ge52cgfebda9b076fc" version="5" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ElementalAffinity_ExtraDamage" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="62581292-5ef4-48d6-bc93-501fbccb1a78" />
+        <field name="Name" type="NameTableFieldDefinition" value="ElementalAffinity_Mastery_Cold" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fffc3d58-d2e4-42c6-b49b-cf79f58643fc" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h8ec65255g14fdg1bb4ge189g65ec67de3d79" version="5" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f5c1ea19-188a-4421-9639-f7b3e4f6cec8" />
+        <field name="Name" type="NameTableFieldDefinition" value="ElementalAffinity_Mastery_Fire" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fffc3d58-d2e4-42c6-b49b-cf79f58643fc" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h030287aagd0begfd78gb04ag28d48d493025" version="5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3197ed70-163f-450b-b843-72fd18c8c8d4" />
+        <field name="Name" type="NameTableFieldDefinition" value="ElementalAffinity_Mastery_Lightning" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fffc3d58-d2e4-42c6-b49b-cf79f58643fc" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbb42b707g29a0g743fga1fcg303cefcaab9e" version="5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="17f49bbf-1799-418c-9c9a-cb1d8f59af24" />
+        <field name="Name" type="NameTableFieldDefinition" value="ElementalAffinity_Mastery_Poison" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fffc3d58-d2e4-42c6-b49b-cf79f58643fc" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha3284075gb905gec6fg8070gb3dcc7570749" version="5" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

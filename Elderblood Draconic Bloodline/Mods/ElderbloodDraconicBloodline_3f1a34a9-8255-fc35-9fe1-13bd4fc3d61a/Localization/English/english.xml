@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h9224d6fcg52dbga030gdec8ga9f2502bf3c6" version="1">Draconic Resilience</content>
+  <content contentuid="h2f252a83gf4dag22ceg43f6g83ea20fb750c" version="2">Dragon-like scales harden patches of your skin. Your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; increases by 1.</content>
+  <content contentuid="h782494efg49cag02c6g58b8gc32c5e4cba3c" version="1">Draconic Ancestry: Black (Acid)</content>
+  <content contentuid="h3bcae4c0g9ce1g06degb896g869d0f376c30" version="9">Acid courses through you. With every level, you gain greater mastery over your draconic element.</content>
+  <content contentuid="h11240b18g00a9gf95bg83ccg2d7d2627c893" version="1">Draconic Ancestry: Blue (Lightning)</content>
+  <content contentuid="hb9f7d15dgcfbbgea14gf1b8g203d691232c4" version="9">The storm lives within you. With every level, you gain greater mastery over your draconic element.</content>
+  <content contentuid="h1717a153g5bbdga6b9ga695g3af6ff66eff9" version="1">Draconic Ancestry: Brass (Fire)</content>
+  <content contentuid="h99055209g1ffegda65g631age6d78ad2e4c3" version="9">Fire runs in your blood. With every level, you gain greater mastery over your draconic element.</content>
+  <content contentuid="h20321fecg6e2bg1875g76fbg5cf2f7b99f71" version="1">Draconic Ancestry: Bronze (Lightning)</content>
+  <content contentuid="h53b3475bga98cgee6cg9455ge55254283fa0" version="9">The storm lives within you. With every level, you gain greater mastery over your draconic element.</content>
+  <content contentuid="hb1123e51gf426g5edag56bbg99b642bac2af" version="1">Draconic Ancestry: Copper (Acid)</content>
+  <content contentuid="hd5419db2gd497g4d40gec8fg486fc2080b15" version="9">Acid courses through you. With every level, you gain greater mastery over your draconic element.</content>
+  <content contentuid="hc4e84f7eg8b02g886bgeef1gedffbf79a718" version="1">Draconic Ancestry: Gold (Fire)</content>
+  <content contentuid="hbcaf18bdg25d8g403agbc8fg3b9f837c48f6" version="9">Fire runs in your blood. With every level, you gain greater mastery over your draconic element.</content>
+  <content contentuid="h7b9c65e2g1c89ga40ag1a0bg6fc9aa643b95" version="1">Draconic Ancestry: Green (Poison)</content>
+  <content contentuid="h6dfcd0adgdbe0gb959g52c8g218e3751ed7c" version="9">Venom seeps through your veins. With every level, you gain greater mastery over your draconic element.</content>
+  <content contentuid="h6da02e04g7503gd618geacag278fceff582a" version="1">Draconic Ancestry: Red (Fire)</content>
+  <content contentuid="h90e461c6g4948g5e75ga688gc8df129ed24a" version="9">Fire runs in your blood. With every level, you gain greater mastery over your draconic element.</content>
+  <content contentuid="hf1945665g39d7g673fg2c65gf21b7350d9f2" version="1">Draconic Ancestry: Silver (Cold)</content>
+  <content contentuid="hc24eb189gc387g55cege181g95a61462a244" version="9">Ice hardens your veins. With every level, you gain greater mastery over your draconic element.</content>
+  <content contentuid="he2d7314bgbbc8g5506g4e18g7053174c2056" version="1">Draconic Ancestry: White (Cold)</content>
+  <content contentuid="h9ee200eag0315gd5dfg15dbg0f0fb11509c4" version="9">Ice hardens your veins. With every level, you gain greater mastery over your draconic element.</content>
+  <content contentuid="h64e4939eg05a5gc0f2g5461g2064ffda03d1" version="5">Elemental Affinity: Mastery</content>
+  <content contentuid="hd9b5f66fg09ccg42eagffe2g5b97db4ee89d" version="5">Elemental Affinity: Mastery</content>
+  <content contentuid="hba99711agcb74gd4b6ga39ag38fdde196c5e" version="5">Elemental Affinity: Mastery</content>
+  <content contentuid="h4b72a226g1f60gd782gaf4cg49f330f6d2d7" version="5">Elemental Affinity: Mastery</content>
+  <content contentuid="h2c8d2179g8f89g23cdga719ga9654d8a2cbc" version="5">Elemental Affinity: Mastery</content>
+  <content contentuid="h76461bbfg4da1g2e37ge240g6f080a12c2dc" version="3">Elemental Affinity: Mastery</content>
+  <content contentuid="h888b6b6eg1cb6gd657gd1e6ge6e2d0df9b3a" version="10">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on attack rolls with spells of your draconic element and you ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to that damage type.&lt;br&gt;&lt;br&gt;You are &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to your draconic element.</content>
+  <content contentuid="hd167c6fdg0a0fgd4e2ga8feg4bf2d19aff41" version="3">Elemental Affinity: Wyrmsong</content>
+  <content contentuid="h4b62c7d4g24f8g5345g435fgafc0a6fba97e" version="7">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on damage rolls with spells of your draconic element that deal direct damage.</content>
+  <content contentuid="hb766c234gd4bbg7a6dgb2a4g2c5dc96423a4" version="3">Elemental Affinity: Wyrmsong</content>
+  <content contentuid="ha8c45745gbcabg0c91gb35dg22c3a706405e" version="3">Elemental Affinity: Wyrmsong</content>
+  <content contentuid="h16193d75geecfg2fe1g503cgb4e88d7f8457" version="3">Elemental Affinity: Wyrmsong</content>
+  <content contentuid="h6d0b19e0gb1c5gc7c8g6ebbg86c747983ded" version="3">Elemental Affinity: Wyrmsong</content>
+  <content contentuid="h7d76ebc3g6bc5ga971g32d9gbb7fef007f86" version="3">Elemental Affinity: Wyrmsong</content>
+  <content contentuid="h6bf95a95gbd2ag8b71gd24cgd7b49bca5c81" version="3">Elemental Affinity: Attunement</content>
+  <content contentuid="hce30437fg6b22g8471gfe84gedf4d4c4bf2c" version="5">When you deal damage of your draconic element type, you add your Charisma &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to the damage.&lt;br&gt;&lt;br&gt;Additionally, reduce damage you take from your draconic element by your Charisma &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;.</content>
+  <content contentuid="h96d9d329g0be3g75aagd21dg0c9da37349d2" version="1">Draconic Ancestry: Alignment</content>
+  <content contentuid="h1280157egec9dg4507g5ef9ge6cc79463073" version="1">Your sorcerous blood and draconic heritage align: enemies have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against your dragonborn breath weapon.</content>
+  <content contentuid="h6e913cf0g3ea9g558agfe05g3f290273cea9" version="1">Draconic Ancestry: Alignment</content>
+  <content contentuid="h901df326g0596gc237g9857gc97a87f28d4f" version="1">Your sorcerous blood and draconic heritage align: enemies have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against your dragonborn breath weapon.</content>
+  <content contentuid="h3493d593gaae1gc028g95e5gb530375a7d21" version="3">Elemental Affinity: Attunement</content>
+  <content contentuid="ha8070460g4471ga969g99e1gaf8cdc98ada9" version="3">Elemental Affinity: Attunement</content>
+  <content contentuid="h8e22ec7fge2b2gdc9cg43a9gfd77299af022" version="3">Elemental Affinity: Attunement</content>
+  <content contentuid="hc29567f9gf496g8ad5g538ag88b1fc75ba9d" version="3">Elemental Affinity: Attunement</content>
+  <content contentuid="h5989e838g7231g1927g08ffg33e296894e96" version="3">Elemental Affinity: Attunement</content>
+  <content contentuid="h36193694gbda9g9634gd872g7f3a615b12a8" version="1">Haunted One</content>
+  <content contentuid="h191e3583g8d63g1992g6272g0544dbb14397" version="1">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Medicine"&gt;Medicine&lt;/LSTag&gt; and &lt;LSTag Tooltip="Intimidation"&gt;Intimidation&lt;/LSTag&gt; checks thanks to the bloody and wretched path you've walked so long. </content>
+  <content contentuid="h654be067ge01bg4099g48e6g3bca0305c47b" version="1">Elemental Affinity: Wyrmsong</content>
+  <content contentuid="hde6c3134g85e5g3281g7cdag3bcd6a2deefd" version="1">Elemental Affinity: Mastery</content>
+  <content contentuid="hc5ed3dbdgf1bcgfe96g4e35g07c59ec5ac8f" version="5">You ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to your draconic element and are &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to it.&lt;br&gt;&lt;br&gt;Depending on your draconic element, damage done inflicts: &lt;LSTag Type="Status" Tooltip="ACID"&gt;Acid&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;Chilled&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Shocked&lt;/LSTag&gt;, or &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poisoned&lt;/LSTag&gt; for 1 turn.</content>
+  <content contentuid="he634e89cga9fcge6cfg3f56gf46a2b7dba09" version="1">Elemental Affinity: Wyrmsong</content>
+  <content contentuid="h7a9f17acg69cag8e09g8744g03938a667bae" version="1">When you deal damage of your draconic element type, heal 1d4 hit points.</content>
+  <content contentuid="h087804dcgdc47g5b19gfaeag6cb2427b404d" version="1">Elemental Affinity: Wyrmsong</content>
+  <content contentuid="hf1853db1g8b32g35c6g48f8g298f35d4a345" version="3">When you deal damage of your draconic element type, heal 1d4 hit points.</content>
+  <content contentuid="ha20223e9g2b72g54b6g508cg28c52835af9f" version="1">Elemental Affinity: Wyrmsong</content>
+  <content contentuid="h1fc0d0fdgdd03gc763ge00ag7230351cda60" version="3">When you deal damage of your draconic element type, heal 1d4 hit points.</content>
+  <content contentuid="h0070217bg1c54gd5e1g4d95ga52ff6844289" version="1">Elemental Affinity: Mastery</content>
+  <content contentuid="hd8e3ac8dgbebag9a00ge52cgfebda9b076fc" version="5">You ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to your draconic element and gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to it.&lt;br&gt;&lt;br&gt;You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against enemies afflicted with&lt;LSTag Type="Status" Tooltip="ACID"&gt;Acid&lt;/LSTag&gt;.</content>
+  <content contentuid="h8ec65255g14fdg1bb4ge189g65ec67de3d79" version="5">You ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to your draconic element and gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to it.&lt;br&gt;&lt;br&gt;You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against enemies who are &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;Chilled&lt;/LSTag&gt;.</content>
+  <content contentuid="h030287aagd0begfd78gb04ag28d48d493025" version="5">You ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to your draconic element and gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to it.&lt;br&gt;&lt;br&gt;You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against enemies who are &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;.</content>
+  <content contentuid="hbb42b707g29a0g743fga1fcg303cefcaab9e" version="5">You ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to your draconic element and gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to it.&lt;br&gt;&lt;br&gt;You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against enemies who are &lt;LSTag Type="Status" Tooltip="SCHOCKED"&gt;Shocked&lt;/LSTag&gt;.</content>
+  <content contentuid="ha3284075gb905gec6fg8070gb3dcc7570749" version="5">You ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to your draconic element and gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to it.&lt;br&gt;&lt;br&gt;You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against enemies who are &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poisoned&lt;/LSTag&gt;.</content>
+  <content contentuid="hadd3711dgbe44g0b2cgcf57gd15feaf69a2b" version="1">You ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to your draconic element and gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to it.&lt;br&gt;&lt;br&gt;Depending on your draconic element, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against enemies afflicted with: &lt;LSTag Type="Status" Tooltip="ACID"&gt;Acid&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;Chilled&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Shocked&lt;/LSTag&gt;, or &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poisoned&lt;/LSTag&gt;.</content>
+</contentList>

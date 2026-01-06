@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h2d3e1dc4gb7a9g2107gf394g45efabe8ca12" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h48c2f664gdbe1gb419g3931g5473ba6ceae5" version="1"/>
+                    <attribute id="Hidden" type="bool" value="true"/>
+                    <attribute id="PassivePrototype" type="FixedString" value="DraconicResilience"/>
+                    <attribute id="Type" type="FixedString" value="ACOverrideFormula"/>
+                    <attribute id="UUID" type="guid" value="f65046fa-a092-4c44-947c-1be13577f82b"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

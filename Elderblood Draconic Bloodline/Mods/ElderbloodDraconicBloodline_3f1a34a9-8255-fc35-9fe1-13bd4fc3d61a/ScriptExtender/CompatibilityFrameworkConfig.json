@@ -1,0 +1,53 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "UUIDs": [
+        "58965d6f-fa5d-41a4-bb78-2d3a142373fe" // Sorcerer - Draconic Bloodline (1st)
+      ],
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["Darkvision"]
+        }
+      ]
+    },
+    {
+      "UUIDs": [
+        "18fed4a7-0207-431d-91c1-0662f800bea3" // Sorcerer - Draconic Bloodline (6th)
+      ],
+      "Strings": [
+        {
+          "Action": "Remove",
+          "Type": "PassivesAdded",
+          "Strings": ["ElementalAffinity_Resistance_Check"]
+        }
+      ]
+    },
+    {
+      "UUIDs": [
+        "94ba4bb9-7335-497a-8ac0-1ec535fb85d6" // Sorcerer - Draconic Bloodline (11th)
+      ],
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["ElementalAffinity_Mastery"]
+        }
+      ]
+    },
+    {
+      "UUIDs": [
+        "308e4516-902d-4d34-9551-0ee7397d03b0" // Sorcerer - Draconic Bloodline (14th)
+      ],
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["ElementalAffinity_Wyrmsong"]
+        }
+      ]
+    }
+  ]
+}

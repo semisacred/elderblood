@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e2a8d59b-0e34-4a7c-bf5f-db7a2bb34cde">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="79691809-0396-479e-9118-cd8f0af2e49b" />
+        <field name="Name" type="NameTableFieldDefinition" value="ELEMENTALAFFINITY_ACID_MASTERY_TECHNICAL" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h64e4939eg05a5gc0f2g5461g2064ffda03d1" version="5" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ElementalAffinity_ExtraDamage" />
+        <field name="StackId" type="StringTableFieldDefinition" value="ELEMENTALAFFINITY_ACID_MASTERY_TECHNICAL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IgnoreResistance(Acid,Resistant);Resistance(Acid,Resistant);IF(HasStatus('ACID',context.Target)):Advantage(AttackRoll);" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2e2a05d9-9537-4ae0-b8c5-2e984d5b6d5b" />
+        <field name="Name" type="NameTableFieldDefinition" value="ELEMENTALAFFINITY_COLD_MASTERY_TECHNICAL" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd9b5f66fg09ccg42eagffe2g5b97db4ee89d" version="5" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ElementalAffinity_ExtraDamage" />
+        <field name="StackId" type="StringTableFieldDefinition" value="ELEMENTALAFFINITY_COLD_MASTERY_TECHNICAL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IgnoreResistance(Cold,Resistant);Resistance(Cold,Resistant);IF(HasStatus('CHILLED',context.Target)):Advantage(AttackRoll);" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="88395977-639d-487f-bfd6-4897e002e6ef" />
+        <field name="Name" type="NameTableFieldDefinition" value="ELEMENTALAFFINITY_FIRE_MASTERY_TECHNICAL" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hba99711agcb74gd4b6ga39ag38fdde196c5e" version="5" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ElementalAffinity_ExtraDamage" />
+        <field name="StackId" type="StringTableFieldDefinition" value="ELEMENTALAFFINITY_FIRE_MASTERY_TECHNICAL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IgnoreResistance(Fire,Resistant);Resistance(Fire,Resistant);IF(HasStatus('BURNING',context.Target)):Advantage(AttackRoll);" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="26c435a7-588d-464b-acfb-abdccb82b952" />
+        <field name="Name" type="NameTableFieldDefinition" value="ELEMENTALAFFINITY_LIGHTNING_MASTERY_TECHNICAL" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4b72a226g1f60gd782gaf4cg49f330f6d2d7" version="5" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ElementalAffinity_ExtraDamage" />
+        <field name="StackId" type="StringTableFieldDefinition" value="ELEMENTALAFFINITY_LIGHTNING_MASTERY_TECHNICAL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IgnoreResistance(Lightning,Resistant);Resistance(Lightning,Resistant);IF(HasStatus('SHOCKED',context.Target)):Advantage(AttackRoll);" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fd64962a-cf4f-4b00-a6e8-fb48331dae1a" />
+        <field name="Name" type="NameTableFieldDefinition" value="ELEMENTALAFFINITY_POISON_MASTERY_TECHNICAL" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2c8d2179g8f89g23cdga719ga9654d8a2cbc" version="5" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ElementalAffinity_ExtraDamage" />
+        <field name="StackId" type="StringTableFieldDefinition" value="ELEMENTALAFFINITY_POISON_MASTERY_TECHNICAL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IgnoreResistance(Poison,Resistant);Resistance(Poison,Resistant);IF(HasStatus('POISON',context.Target)):Advantage(AttackRoll);" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="044fd44c-fabc-4b55-a59e-b39866a5e89f" />
+        <field name="Name" type="NameTableFieldDefinition" value="DRACONICANCESTRY_MATCH_TECHNICAL" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6e913cf0g3ea9g558agfe05g3f290273cea9" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="DRACONICANCESTRY_MATCH_TECHNICAL" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h901df326g0596gc237g9857gc97a87f28d4f" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpellVariant(IsBreathWeapon(),ModifyTooltipDescription() ,ModifySavingThrowDisadvantage());" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="045b37de-e5ca-48ee-b499-7a38719b0ea7" />
+        <field name="Name" type="NameTableFieldDefinition" value="ELEMENTALAFFINITY_ACID_EXTRA_DAMAGE_TECHNICAL" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3493d593gaae1gc028g95e5gb530375a7d21" version="3" />
+        <field name="StackId" type="StringTableFieldDefinition" value="ELEMENTALAFFINITY_ACID_EXTRA_DAMAGE_TECHNICAL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(IsDamageTypeAcid()):DamageBonus(max(0, CharismaModifier));DamageReduction(Acid, Flat, CharismaModifier);" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ElementalAffinity_ExtraDamage" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="70d78b15-efad-4f9b-9ba9-e730b61a1ee7" />
+        <field name="Name" type="NameTableFieldDefinition" value="ELEMENTALAFFINITY_COLD_EXTRA_DAMAGE_TECHNICAL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="045b37de-e5ca-48ee-b499-7a38719b0ea7" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha8070460g4471ga969g99e1gaf8cdc98ada9" version="3" />
+        <field name="StackId" type="StringTableFieldDefinition" value="ELEMENTALAFFINITY_COLD_EXTRA_DAMAGE_TECHNICAL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(IsDamageTypeCold()):DamageBonus(max(0, CharismaModifier));DamageReduction(Cold, Flat, CharismaModifier);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1832dbb0-131b-45b1-b08f-310f02cfc960" />
+        <field name="Name" type="NameTableFieldDefinition" value="ELEMENTALAFFINITY_FIRE_EXTRA_DAMAGE_TECHNICAL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="045b37de-e5ca-48ee-b499-7a38719b0ea7" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8e22ec7fge2b2gdc9cg43a9gfd77299af022" version="3" />
+        <field name="StackId" type="StringTableFieldDefinition" value="ELEMENTALAFFINITY_FIRE_EXTRA_DAMAGE_TECHNICAL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(IsDamageTypeFire()):DamageBonus(max(0, CharismaModifier));DamageReduction(Fire, Flat, CharismaModifier);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bb16ec9b-663b-49f2-87df-1a81c60c8348" />
+        <field name="Name" type="NameTableFieldDefinition" value="ELEMENTALAFFINITY_LIGHTNING_EXTRA_DAMAGE_TECHNICAL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="045b37de-e5ca-48ee-b499-7a38719b0ea7" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc29567f9gf496g8ad5g538ag88b1fc75ba9d" version="3" />
+        <field name="StackId" type="StringTableFieldDefinition" value="ELEMENTALAFFINITY_LIGHTNING_EXTRA_DAMAGE_TECHNICAL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(IsDamageTypeLightning()):DamageBonus(max(0, CharismaModifier));DamageReduction(Lightning, Flat, CharismaModifier);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8af255dd-ada0-49b2-b2cc-9cac036b551e" />
+        <field name="Name" type="NameTableFieldDefinition" value="ELEMENTALAFFINITY_POISON_EXTRA_DAMAGE_TECHNICAL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="045b37de-e5ca-48ee-b499-7a38719b0ea7" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5989e838g7231g1927g08ffg33e296894e96" version="3" />
+        <field name="StackId" type="StringTableFieldDefinition" value="ELEMENTALAFFINITY_POISON_EXTRA_DAMAGE_TECHNICAL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(IsDamageTypePoison()):DamageBonus(max(0, CharismaModifier));DamageReduction(Poison, Flat, CharismaModifier);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="de035cc4-aec8-439b-9000-a8b5331c6b0b" />
+        <field name="Name" type="NameTableFieldDefinition" value="ELEMENTALAFFINITY_ACID_WYRMSONG_TECHNICAL" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h654be067ge01bg4099g48e6g3bca0305c47b" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ElementalAffinity_ExtraDamage" />
+        <field name="StackId" type="StringTableFieldDefinition" value="ELEMENTALAFFINITY_ACID_WYRMSONG_TECHNICAL" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="Passives" type="StringTableFieldDefinition" value="ElementalAffinity_Wyrmsong_Acid;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c7a314f9-9d78-422c-84cf-64b1cc59bc02" />
+        <field name="Name" type="NameTableFieldDefinition" value="ELEMENTALAFFINITY_COLD_WYRMSONG_TECHNICAL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="de035cc4-aec8-439b-9000-a8b5331c6b0b" />
+        <field name="StackId" type="StringTableFieldDefinition" value="ELEMENTALAFFINITY_COLD_WYRMSONG_TECHNICAL" />
+        <field name="Passives" type="StringTableFieldDefinition" value="ElementalAffinity_Wyrmsong_Cold;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a464fe1e-1811-4ef6-ab1e-f21226e072f2" />
+        <field name="Name" type="NameTableFieldDefinition" value="ELEMENTALAFFINITY_FIRE_WYRMSONG_TECHNICAL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="de035cc4-aec8-439b-9000-a8b5331c6b0b" />
+        <field name="StackId" type="StringTableFieldDefinition" value="ELEMENTALAFFINITY_FIRE_WYRMSONG_TECHNICAL" />
+        <field name="Passives" type="StringTableFieldDefinition" value="ElementalAffinity_Wyrmsong_Fire;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="54da066c-5d26-47c6-9147-fd5898fd6ad9" />
+        <field name="Name" type="NameTableFieldDefinition" value="ELEMENTALAFFINITY_LIGHTNING_WYRMSONG_TECHNICAL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="de035cc4-aec8-439b-9000-a8b5331c6b0b" />
+        <field name="StackId" type="StringTableFieldDefinition" value="ELEMENTALAFFINITY_LIGHTNING_WYRMSONG_TECHNICAL" />
+        <field name="Passives" type="StringTableFieldDefinition" value="ElementalAffinity_Wyrmsong_Lightning;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="67e63861-da69-4257-8416-eb9d318e1687" />
+        <field name="Name" type="NameTableFieldDefinition" value="ELEMENTALAFFINITY_POISON_WYRMSONG_TECHNICAL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="de035cc4-aec8-439b-9000-a8b5331c6b0b" />
+        <field name="StackId" type="StringTableFieldDefinition" value="ELEMENTALAFFINITY_POISON_WYRMSONG_TECHNICAL" />
+        <field name="Passives" type="StringTableFieldDefinition" value="ElementalAffinity_Wyrmsong_Poison;" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="3f1a34a9-8255-fc35-9fe1-13bd4fc3d61a"/>
+            <attribute id="Name" type="LSString" value="ElderbloodDraconicBloodline"/>
+            <attribute id="UUID" type="LSString" value="bc1ce31a-08b3-614c-8b53-5a6957bfbefd"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
