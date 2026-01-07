@@ -12,8 +12,6 @@ A collection of Baldur's Gate 3 gameplay and audio mods.
 **Thrall’s Fortitude**
 - +5 Max HP
 
-**Savage Attacker**
-
 **Breath Attack**
 - Bonus action
 - 2d10 damage
