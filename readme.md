@@ -4,6 +4,8 @@
 
 A collection of Baldur's Gate 3 gameplay and audio mods.
 
+---
+
 **Dragonborn**
 ---
 
@@ -17,6 +19,8 @@ A collection of Baldur's Gate 3 gameplay and audio mods.
 - 2d10 damage
 - Scales at levels **4, 8, 12, 16, 20**
 - Once per combat
+
+---
 
 **Draconic Bloodline (Sorcerer)**
 ---
@@ -50,6 +54,8 @@ A collection of Baldur's Gate 3 gameplay and audio mods.
 ### Level 18
 - **Draconic Presence** *(Expansion)*
 
+---
+
 **Origins**
 ---
 
@@ -61,6 +67,8 @@ A collection of Baldur's Gate 3 gameplay and audio mods.
 - **Circlet of Night** *(Circlet)*
   - Passive: Blind Immunity
   - Spell: *Darkness*
+
+---
 
 **Elderblood Deep Voice 5**
 ---
@@ -82,3 +90,5 @@ A collection of Baldur's Gate 3 gameplay and audio mods.
 - "You will die for me, won't you?"
 - Hunter’s Mark voice line is still vanilla
 ```
+
+---
